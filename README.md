@@ -1,0 +1,2 @@
+# MyNewRepository
+people are dumb
