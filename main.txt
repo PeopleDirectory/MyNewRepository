@@ -1,0 +1,21 @@
+Date/Time:                template
+IP:                       template
+Country:                  template
+Orientation:              template
+Timezone:                 template
+User Time:                template
+Language:                 template
+Incognito/Private Window: template
+Ad Blocker:               template
+Screen Size:              template
+Local IP:                 template
+GPU:                      template
+Browser:                  template
+Operating System:         template
+Device:                   template
+Touch Screen:             template
+User Agent:               template
+Platform:                 template
+Referring URL:            template
+Host Name:                template
+ISP:                      template
