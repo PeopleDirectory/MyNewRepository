@@ -1,0 +1,21 @@
+Date/Time:                2022-08-05 18:53:39 UTC
+IP:                       103.142.162.233
+Country:                  India, Bhuj
+Orientation:              portrait-primary
+Timezone:                 Asia/Calcutta GMT+5:30
+User Time:                Sat Aug 06 2022 00:23:40 GMT+0530 (India Standard Time)
+Language:                 en-US
+Incognito/Private Window: No
+Ad Blocker:               No
+Screen Size:              360x800
+Local IP:                 192.168.0.101
+GPU:                      Mali-G57 MC3
+Browser:                  Chrome Mobile (103.0.0.0)
+Operating System:         Android 12
+Device:                   Realme V15 5G
+Touch Screen:             Yes
+User Agent:               Mozilla/5.0 (Linux; Android 12; RMX3092) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36
+Platform:                 Linux armv8l
+Referring URL:            No referrer
+Host Name:                103.142.162.233
+ISP:                      Padmnet Broadband Service Pvt. Ltd.
