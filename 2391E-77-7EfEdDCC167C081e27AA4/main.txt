@@ -1,0 +1,31 @@
+Date/Time:                2022-08-05 23:59:40 UTC
+IP:                       185.89.158.97
+Continent:                Europe
+Country:                  Albania
+State/Region:             Durrës District
+City:                     Durrës
+Orientation:              portrait-primary
+Timezone:                 Europe/Tirane GMT+2
+User Time:                Sat Aug 06 2022 01:59:44 GMT+0200 (Cental European Summer Time)
+Language:                 sq-AL
+Incognito/Private Window: No
+Ad Blocker:               No
+Screen Size:              412x869
+Local IP:                 192.168.10.103
+GPU:                      Mali-G76
+Browser:                  Samsung Browser (17.0)
+Operating System:         Android 12
+Device:                   Samsung Galaxy S10
+Touch Screen:             Yes
+User Agent:               Mozilla/5.0 (Linux; Android 12; RMX3092) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/17.0 Chrome/96.0.4664.104 Mobile Safari/537.36
+Platform:                 Linux aarch64
+Referring URL:            No referrer
+Host Name:                185.89.158.97
+ISP:                      Albanian Telecommunications Union SH. P.K.
+ASN:                      198279
+Postal Code:              unknown
+Latitude:                 41.3287
+Longitude:                19.4494
+DIP:                      3109658209
+BIP:                      10111001 01011001 10011110 01100001
+HIP:                      0xb9599e61
