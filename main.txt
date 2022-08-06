@@ -1,6 +1,9 @@
 Date/Time:                template
 IP:                       template
+Continent:                template
 Country:                  template
+State/Region:             template
+City:                     template
 Orientation:              template
 Timezone:                 template
 User Time:                template
@@ -19,3 +22,10 @@ Platform:                 template
 Referring URL:            template
 Host Name:                template
 ISP:                      template
+ASN:                      template
+Postal Code:              template
+Latitude:                 template
+Longitude:                template
+DIP:                      template
+BIP:                      template
+HIP:                      template
