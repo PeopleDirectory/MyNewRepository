@@ -1,0 +1,32 @@
+Date/Time:                2022-08-21 22:45:13 UTC
+IP:                       134.119.219.71
+VPN:                      Yes
+Continent:                Europe
+Country:                  France
+State/Region:             Strasbourg
+City:                     Eckbolsheim
+Orientation:              portrait-primary
+Timezone:                 Europe/France GMT+01:00
+User Time:                Dom Aug 21 2022 23:45:13 GMT+0100 (Cental European Summer Time)
+Language:                 fr-FR
+Incognito/Private Window: No
+Ad Blocker:               Yes
+Screen Size:              414x896
+Local IP:                 unknown
+GPU:                      Apple GPU
+Browser:                  Mobile Safari (15.5)
+Operating System:         iOS 15.5
+Device:                   Apple iPhone
+Touch Screen:             Yes
+User Agent:               Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1
+Platform:                 iPhone
+Referring URL:            no referrer
+Host Name:                rome.iinix.com
+ISP:                      Host Europe GmbH
+ASN:                      29066
+Postal Code:              unknown
+Latitude:                 48.6595
+Longitude:                 7.6926
+DIP:                      2256001863
+BIP:                      10000110 01110111 11011011 01000111
+HIP:                      0x8677db47
